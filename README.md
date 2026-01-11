@@ -1,8 +1,8 @@
 # nmjk-valentine-2026
+
 A short, non-commercial fan-made visual novel created for Valentine’s Day 2026.
 
 ## Disclaimer
-
 
 This project is a non-commercial fan-made work.
 
@@ -15,7 +15,6 @@ No copyright infringement is intended.
 
 ---
 
-
 本プロジェクトは、非営利目的で制作されたファンメイド作品です。
 
 登場するキャラクター、設定、ならびに原作の知的財産権は、
@@ -26,7 +25,6 @@ No copyright infringement is intended.
 著作権を侵害する意図はありません。
 
 ---
-
 
 本项目为非商业性质的同人创作作品。
 
@@ -45,6 +43,7 @@ Support for English and Japanese may be added at a later stage,
 if development scope allows.
 
 ## Project Status
+
 Early planning / pre-production  
 This project is currently in the early planning stage.
 
@@ -60,11 +59,15 @@ designed as a short, complete experience rather than a long-form game.
 - Branching choices with limited complexity
 - Minimal assets to keep production lightweight
 
-## Planned Tech Stack
+## Planned / Potential Tech Stack
 
-- Engine: Ren'Py
-- Language: Python (Ren'Py scripting)
-- Assets: Minimal static images
+- Narrative Tool (Primary): Twine
+- Web VN Engine (Optional, Post-Writing):
+  - RenJS
+  - Monogatari
+- Frontend: Web (HTML / CSS / JavaScript)
+- Backend / Storage: Supabase (for save data and global state)
+- Player Identification: Creator-issued unique access codes
 - Version Control: Git / GitHub
 
 ## Acknowledgements
@@ -73,4 +76,3 @@ Special thanks to someone special,
 who organized this event and has, over a long period of time,
 quietly and devotedly loved this pairing.
 Your presence and mutual support have been deeply meaningful to me.
-
